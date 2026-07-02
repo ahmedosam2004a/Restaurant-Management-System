@@ -31,9 +31,6 @@ Restaurant Management System is a desktop application developed using C# Windows
 4. Open the solution in Visual Studio.
 5. Run the application.
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Future Improvements
 
